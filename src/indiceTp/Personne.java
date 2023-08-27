@@ -3,6 +3,7 @@ package indiceTp;
 public class Personne {
 	private String nomComplet;
 	private double poids,taille;
+	
 	public String getNomComplet() {
 		return nomComplet;
 	}
